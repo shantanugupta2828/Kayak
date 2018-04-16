@@ -1,0 +1,643 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    float: left;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.space {
+
+    padding-top: 35px;
+}
+.myAccount {
+    padding-top: 10px;
+    padding-right: 10px;
+    color: white;
+    float:right;
+}
+.iconImage {
+    height: 35px;
+    color: white;
+    padding-top: 10px;
+    padding-right: 160px;
+    float: right;
+}
+.dashboard {
+    height: 150px;
+    width: 800px;
+    background-color: #e4e5ea;
+    margin-left: -70px;
+    margin-top: -11px;
+    padding-right: 30px;
+
+}
+
+.dashboard1 {
+
+
+}
+
+.formFields1 {
+    height: 50px;
+
+}
+.Enter{
+
+    background-color: #FF690F;
+}
+.formFields {
+
+    float: none;
+    height: 50px;
+}
+
+
+.footer {
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 1340px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.BackgroundImage{
+    display: flex;
+
+    width: 400px;
+    height: 500px;
+    padding-left: 0px;
+    right: 0;
+    left: 0;
+    top: 0;
+
+}
+.col-sm-8{
+
+    display: flex;
+}
+.mainform {
+
+    float:none;
+
+}
+.mainbtn {
+
+    border-radius: 0;
+}
+
+.searchbtn {
+
+
+    height: 60px;
+    width: 60px;
+    background-color: #FF690F;
+
+}
+
+.searchbtn1 {
+    background-color: #FF690F;
+}
+.dropdown-menu {
+    height: 50px;
+    float:none;
+}
+.navbar-header {
+    background-color: #0f0f0f;
+    height: 20px;
+}
+.Kayak {
+    display: flex;
+
+    width: 400px;
+
+}
+.form-horizontal{
+padding-left: 10px;
+}
+
+.Statement{
+    text-align: center;
+    padding-top: 100px;
+
+}
+.Hotels{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+.Flights{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.Cars{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.Rentals{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+.Cruisers{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+.dropdown-container {
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+
+}
+/*.transform(
+scale(1, 0));
+.transition(
+-webkit-transform ease 250ms);
+.transition(
+transform ease 250ms);
+}*/
+
+.Packages{
+    float: left;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+.add {
+    float: right;
+    margin-left: 20px;
+}
+
+
+.ratingarea label {
+    float:none;
+    padding: 0;
+}
+/*rating stars*/
+.rating-stars {
+    display:inline-block;
+    /*
+        margin-bottom: 23px;
+    */
+}
+.rating-stars, .rating-stars label::before {
+    /*
+        display: inline-block;
+    */
+}
+.rating-stars label:hover, .rating-stars label:hover ~ label {
+    color: #e6b02d;
+}
+.rating-stars * {
+    margin: 0;
+    padding: 0;
+}
+.rating-stars input {
+    display: none;
+}
+.rating-stars {
+    position: relative;
+    top: -2px;
+}
+.rating-stars label {
+    color: #ddd;
+    float:right;
+}
+.rating-stars label::before {
+    font-family:'FontAwesome';
+    content:"\f005";
+    width: 35px;
+    font-size: 1em;
+    cursor: pointer;
+    /*
+        margin-right: -26px;
+    */
+}
+.rating-stars input:checked ~ label {
+    color: #e6b02d;
+}
+.sort {
+float:inherit;
+
+
+}
+.hotelList {
+    padding-top: 25px;
+}
+.dashboard2 {
+
+
+
+}
+.panel {
+    width: 750px;
+
+    margin-top: 15px;
+    padding-left: 25px;
+   padding-top: 10px;
+
+}
+.panel1 {
+    margin-left: 300px;
+    margin-top: 100px;
+
+}
+
+.hotelImage {
+    float: left;
+
+}
+.footer1 {
+
+    left: 0;
+    bottom: 0;
+    width: 1340px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer_place {
+
+    margin-top: 200px;
+}
+.footer2 {
+    margin-top: 50px;
+    left: 0;
+    bottom: 0;
+    width: 1340px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.dashboard3 {
+    background-color: #e4e5ea;
+     position: fixed;
+
+}
+.footer_place2 {
+    margin-top: 500px;
+
+}
+.page-inner {
+    margin-left: 100px;
+}
+.page-wrapper {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.creditCardForm {
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    max-width: 700px;
+    background-color: #fff;
+    overflow: hidden;
+    padding: 25px;
+    color: #4c4e56;
+}
+
+.creditCardForm label {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.creditCardForm .heading h1 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #4c4e56;
+}
+
+.creditCardForm .payment {
+    float: left;
+    font-size: 18px;
+    padding: 10px 25px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.creditCardForm .payment .form-group {
+    float: left;
+    margin-bottom: 15px;
+}
+
+.creditCardForm .payment .form-control {
+    line-height: 40px;
+    height: auto;
+    padding: 0 16px;
+}
+
+.creditCardForm .owner {
+    width: 63%;
+    margin-right: 10px;
+}
+
+.creditCardForm .CVV {
+    width: 35%;
+}
+
+.creditCardForm #card-number-field {
+    width: 100%;
+}
+
+.creditCardForm #expiration-date {
+    width: 49%;
+}
+
+.creditCardForm #credit_cards {
+    width: 50%;
+    margin-top: 25px;
+    text-align: right;
+}
+
+.creditCardForm #pay-now {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.creditCardForm .payment .btn {
+    width: 100%;
+    margin-top: 3px;
+    font-size: 24px;
+    background-color: #2ec4a5;
+    color: white;
+}
+
+.creditCardForm .payment select {
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.transparent {
+    opacity: 0.2;
+}
+
+@media(max-width: 650px) {
+    .creditCardForm .owner,
+    .creditCardForm .CVV,
+    .creditCardForm #expiration-date,
+    .creditCardForm #credit_cards {
+        width: 100%;
+    }
+    .creditCardForm #credit_cards {
+        text-align: left;
+    }
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: normal 18px sans-serif;
+    color: #333;
+    background-color: #eee;
+}
+
+.container-fluid1 {
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-side-menu {
+
+    margin-top: 20px;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: 200;
+    background-color: #2e353d;
+    position: fixed;
+    float: left;
+    top: 0px;
+    width: 300px;
+    height: 100%;
+    color: #e1ffff;
+}
+.nav-side-menu .brand {
+    background-color: #23282e;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+}
+.nav-side-menu .toggle-btn {
+    display: none;
+}
+.nav-side-menu ul,
+.nav-side-menu li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    line-height: 35px;
+    cursor: pointer;
+    /*
+      .collapsed{
+         .arrow:before{
+                   font-family: FontAwesome;
+                   content: "\f053";
+                   display: inline-block;
+                   padding-left:10px;
+                   padding-right: 10px;
+                   vertical-align: middle;
+                   float:right;
+              }
+       }
+  */
+}
+.nav-side-menu ul :not(collapsed) .arrow:before,
+.nav-side-menu li :not(collapsed) .arrow:before {
+    font-family: FontAwesome;
+    content: "\f078";
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: middle;
+    float: right;
+}
+.nav-side-menu ul .active,
+.nav-side-menu li .active {
+    border-left: 3px solid #d19b3d;
+    background-color: #4f5b69;
+}
+.nav-side-menu ul .sub-menu li.active,
+.nav-side-menu li .sub-menu li.active {
+    color: #d19b3d;
+}
+.nav-side-menu ul .sub-menu li.active a,
+.nav-side-menu li .sub-menu li.active a {
+    color: #d19b3d;
+}
+.nav-side-menu ul .sub-menu li,
+.nav-side-menu li .sub-menu li {
+    background-color: #181c20;
+    border: none;
+    line-height: 28px;
+    border-bottom: 1px solid #23282e;
+    margin-left: 0px;
+}
+.nav-side-menu ul .sub-menu li:hover,
+.nav-side-menu li .sub-menu li:hover {
+    background-color: #020203;
+}
+.nav-side-menu ul .sub-menu li:before,
+.nav-side-menu li .sub-menu li:before {
+    font-family: FontAwesome;
+    content: "\f105";
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+.nav-side-menu li {
+    padding-left: 0px;
+    border-left: 3px solid #2e353d;
+    border-bottom: 1px solid #23282e;
+}
+.nav-side-menu li a {
+    text-decoration: none;
+    color: #e1ffff;
+}
+.nav-side-menu li a i {
+    padding-left: 10px;
+    width: 20px;
+    padding-right: 20px;
+}
+.nav-side-menu li:hover {
+    border-left: 3px solid #d19b3d;
+    background-color: #4f5b69;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+@media (max-width: 767px) {
+    .nav-side-menu {
+        position: relative;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .nav-side-menu .toggle-btn {
+        display: block;
+        cursor: pointer;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        z-index: 10 !important;
+        padding: 3px;
+        background-color: #ffffff;
+        color: #000;
+        width: 40px;
+        text-align: center;
+    }
+    .brand {
+        text-align: left !important;
+        font-size: 22px;
+        padding-left: 20px;
+        line-height: 50px !important;
+    }
+}
+@media (min-width: 767px) {
+    .nav-side-menu .menu-list .menu-content {
+        display: block;
+    }
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+table {
+    width:900px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+    background-color:#fff;
+}
+table#t01 th {
+    background-color: black;
+    color: white;
+}
